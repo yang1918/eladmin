@@ -3,7 +3,7 @@
 项目基于 Spring Boot 2.1.0 、 Spring boot Jpa、 Spring Security、redis、Vue的前后端分离的权限管理系统， 权限控制采用 RBAC 思想，支持动态路由
 
 #### 前端源码
-//- 码云：[https://gitee.com/elunez/eladmin-qt](https://gitee.com/elunez/eladmin-qt)
+- 码云：[https://gitee.com/elunez/eladmin-qt](https://gitee.com/elunez/eladmin-qt)
 - github：[https://github.com/elunez/eladmin-qd](https://github.com/yang1918/eladmin-qd)
 
 #### 前端初始模板
